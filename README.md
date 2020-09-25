@@ -22,17 +22,17 @@ export default () => ({
     backEnd: {
       js: ["express"],
       python: ["django", "fastAPI"],
-      php: ["laravel", "lumen", "codeigniter"],
+      php: ["laravel", "lumen", "codeigniter"]
     },
     devOps: ["docker", "CI/CD"],
-    cloudServices: ["AWS", "GCP", "Heroku"]
+    cloudServices: ["AWS", "GCP", "Heroku"],
     databases: ["mongo", "postgres", "mySQL", "redis"],
     security: ["burp", "ollydbg"],  
     misc: ["bash", "scrapy", "selenium"]  
   },
   memberships: [
     "Association for Computing Machinery",
-    "EC-Council Certified Ethical Hacker v9",
+    "EC-Council Certified Ethical Hacker v9"
   ]
 });
 ```
