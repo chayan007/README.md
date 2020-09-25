@@ -20,13 +20,15 @@ export default () => ({
       css: ["bootstrap"]
     },
     backEnd: {
-      js: ["node", "express"],
+      js: ["express"],
       python: ["django", "fastAPI"],
-      misc: ["bash", "scrapy", "selenium"]
+      php: ["laravel", "lumen", "codeigniter"],
     },
     devOps: ["docker", "CI/CD"],
+    cloudServices: ["AWS", "GCP", "Heroku"]
     databases: ["mongo", "postgres", "mySQL", "redis"],
-    security: ["burp", "ollydbg"],    
+    security: ["burp", "ollydbg"],  
+    misc: ["bash", "scrapy", "selenium"]  
   },
   memberships: [
     "Association for Computing Machinery",
