@@ -11,8 +11,8 @@ export default () => ({
   pubKey: "263E 3AD1 987A 82GK",
   portfolioURL: "http://www.cyberguychayan.com/",
   askMeAbout: [
-    "software", "tech", "movies",
-    "fintech", "research", "product"
+    "software", "tech", "movies", "architecture", "gaming", "chanakya"
+    "fintech", "research", "product", "management", "design", "mahabharata"
   ],
   technologies: {
     frontEnd: {
