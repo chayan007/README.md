@@ -13,7 +13,7 @@ export default () => ({
   askMeAbout: [
     "software", "tech", "movies", "architecture",
     "gaming", "chanakya", "fintech", "research",
-    "product", "management", "design", "mythology"
+    "product", "anime", "design", "mythology"
   ],
   technologies: {
     frontEnd: {
@@ -22,14 +22,17 @@ export default () => ({
     },
     backEnd: {
       js: ["express"],
-      python: ["django", "fastAPI"],
+      python: ["django", "flask", "fastAPI"],
       php: ["laravel", "lumen", "codeigniter"]
     },
-    devOps: ["docker", "CI/CD"],
+    devOps: ["Docker", "swarm", "CI/CD", "k8s"],
     cloudServices: ["AWS", "GCP", "Heroku"],
     databases: ["mongo", "postgres", "mySQL", "redis"],
-    security: ["burp", "ollydbg"],  
-    misc: ["bash", "scrapy", "selenium"]  
+    security: ["burp", "ollydbg", "nmap"],  
+    misc: [
+    "bash", "scrapy", "selenium",
+    "cron", "processing", "media"
+    ]  
   },
   memberships: [
     "Association for Computing Machinery",
