@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/CyberGuyChayan)](https://twitter.com/CyberGuyChayan/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chayan007/)](https://www.linkedin.com/in/chayan007/)
 
-👨‍🎓 Bachelor in Computer Science and Engineering  from the UEM, Kolkata (Class of 2020) 
+👨‍🎓 B.Tech in Computer Science and Engineering from UEM, Kolkata (Class of 2020) 
 
 ```js
 export default () => ({
